@@ -1,0 +1,8 @@
+{
+  "name": "KADAM Footwear - Indian Luxury \u0026 Heritage Shoes for All",
+  "description": "Handcrafted Indian Kolhapuris, Zardozi Bridal Juttis, Royal Peshawaris, Agra Welted Oxfords, and Urban Sneakers with Zero-Bite comfort cushioning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
